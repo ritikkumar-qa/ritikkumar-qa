@@ -33,7 +33,7 @@ I test and help ship real AI products at **The Hunter AI** — voice assistants,
 
 > **My approach:** Reproduce → Document → Report → Retest
 
-📂 Sample test cases & bug-report templates → [**ai-product-testing-portfolio**](https://github.com/ritikkumar9973927385-ship-it/ai-product-testing-portfolio)
+📂 Sample test cases & bug-report templates → [**ai-product-testing-portfolio**](https://github.com/ritikkumar-qa/ai-product-testing-portfolio)
 
 ### 🔥 Products I Test & Contribute To
 
@@ -51,7 +51,7 @@ I test and help ship real AI products at **The Hunter AI** — voice assistants,
 
 ### 📈 Activity
 
-<img height="150" src="https://streak-stats.demolab.com?user=ritikkumar9973927385-ship-it&theme=tokyonight&hide_border=true" />
+<img height="150" src="https://streak-stats.demolab.com?user=ritikkumar-qa&theme=tokyonight&hide_border=true" />
 
 ---
 
