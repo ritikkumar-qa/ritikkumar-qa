@@ -19,7 +19,6 @@ I test and help ship real AI products at **The Hunter AI** — voice assistants,
 - 🚀 Co-builder at **The Hunter AI** with [@HunterisLive-1](https://github.com/HunterisLive-1)
 - 🧪 Real-device testing & QA for **MAYA**, a voice AI assistant
 - 🐍 Learning **Python, Git & Android**
-- 🔌 Interested in **ESP32** and smart home hardware
 - 🎓 Diploma student
 
 ### 🧪 AI Product Testing & QA
@@ -41,7 +40,6 @@ I test and help ship real AI products at **The Hunter AI** — voice assistants,
 | Product | What it is | My role |
 |---|---|---|
 | 🎙️ **MAYA** | Voice AI assistant for Android & PC | Testing & QA |
-| 🏠 **MAYA Home** | ESP32 smart switch board controlled by voice | Hardware testing |
 | 🎬 **Ghost Creator AI** | Automated YouTube Shorts pipeline | Testing & feedback |
 | 🗣️ **Hunter TTS Lab** | Voice cloning & Hindi/Hinglish/English TTS | Testing & feedback |
 
